@@ -1,5 +1,4 @@
 1. Android
 2. iOS
 3. Windows Phone
-4. Firefox OS
-5. Black Berry
+4. Black Berry
